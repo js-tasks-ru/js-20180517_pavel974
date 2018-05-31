@@ -8,3 +8,4 @@
 function getMinMax(str) {
 
 }
+
