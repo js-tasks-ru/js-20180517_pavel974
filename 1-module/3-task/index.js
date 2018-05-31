@@ -6,5 +6,5 @@
  * @returns {{min:number, max:number}}  объект
  */
 function getMinMax(str) {
-    
+
 }
